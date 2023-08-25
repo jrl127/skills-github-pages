@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Frog Blog: this blog is all about frogs
 ---
 
